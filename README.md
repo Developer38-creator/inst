@@ -1,5 +1,5 @@
 # website link-
-https://developer38-creator.github.io/Video-player-inst/
+https://developer38-creator.github.io/inst/
 # Instagram-like Video Feed
 This HTML code creates a basic Instagram-like vertical video feed. It features:
 
